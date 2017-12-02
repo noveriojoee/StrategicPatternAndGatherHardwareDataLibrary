@@ -1,0 +1,25 @@
+D:\KP\KP_KomputerInventory\KP_Inventory_Library\bin\Release\KP_Inventory_Library.dll
+D:\KP\KP_KomputerInventory\KP_Inventory_Library\bin\Release\KP_Inventory_Library.pdb
+D:\KP\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.csprojResolveAssemblyReference.cache
+D:\KP\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.dll
+D:\KP\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.pdb
+D:\KP\Kp_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Release\KP_Inventory_Library.dll
+D:\KP\Kp_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Release\KP_Inventory_Library.pdb
+D:\KP\Kp_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.dll
+D:\KP\Kp_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.pdb
+D:\KP\Kp_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.csprojResolveAssemblyReference.cache
+D:\KP\Kp_AppsProjects\Real Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Release\KP_Inventory_Library.dll
+D:\KP\Kp_AppsProjects\Real Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Release\KP_Inventory_Library.pdb
+D:\KP\Kp_AppsProjects\Real Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.csprojResolveAssemblyReference.cache
+D:\KP\Kp_AppsProjects\Real Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.dll
+D:\KP\Kp_AppsProjects\Real Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.pdb
+D:\KP Inventory\KP_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Release\KP_Inventory_Library.dll
+D:\KP Inventory\KP_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Release\KP_Inventory_Library.pdb
+D:\KP Inventory\KP_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.csprojResolveAssemblyReference.cache
+D:\KP Inventory\KP_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.dll
+D:\KP Inventory\KP_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.pdb
+D:\Kerja Praktek\KP_AppsProjects\Release_Version_V_2.2\KP_KomputerInventory\KP_Inventory_Library\bin\Release\KP_Inventory_Library.dll
+D:\Kerja Praktek\KP_AppsProjects\Release_Version_V_2.2\KP_KomputerInventory\KP_Inventory_Library\bin\Release\KP_Inventory_Library.pdb
+D:\Kerja Praktek\KP_AppsProjects\Release_Version_V_2.2\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.csprojResolveAssemblyReference.cache
+D:\Kerja Praktek\KP_AppsProjects\Release_Version_V_2.2\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.dll
+D:\Kerja Praktek\KP_AppsProjects\Release_Version_V_2.2\KP_KomputerInventory\KP_Inventory_Library\obj\Release\KP_Inventory_Library.pdb

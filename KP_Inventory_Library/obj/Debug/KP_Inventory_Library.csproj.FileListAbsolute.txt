@@ -1,0 +1,20 @@
+D:\KP\KP_KomputerInventory\KP_Inventory_Library\bin\Debug\KP_Inventory_Library.dll
+D:\KP\KP_KomputerInventory\KP_Inventory_Library\bin\Debug\KP_Inventory_Library.pdb
+D:\KP\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.dll
+D:\KP\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.pdb
+D:\KP\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.csprojResolveAssemblyReference.cache
+D:\KP\Kp_AppsProjects\Real Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Debug\KP_Inventory_Library.dll
+D:\KP\Kp_AppsProjects\Real Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Debug\KP_Inventory_Library.pdb
+D:\KP\Kp_AppsProjects\Real Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.csprojResolveAssemblyReference.cache
+D:\KP\Kp_AppsProjects\Real Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.dll
+D:\KP\Kp_AppsProjects\Real Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.pdb
+D:\KP\Kp_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Debug\KP_Inventory_Library.dll
+D:\KP\Kp_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Debug\KP_Inventory_Library.pdb
+D:\KP\Kp_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.dll
+D:\KP\Kp_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.pdb
+D:\KP\Kp_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.csprojResolveAssemblyReference.cache
+D:\KP Inventory\KP_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Debug\KP_Inventory_Library.dll
+D:\KP Inventory\KP_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\bin\Debug\KP_Inventory_Library.pdb
+D:\KP Inventory\KP_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.csprojResolveAssemblyReference.cache
+D:\KP Inventory\KP_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.dll
+D:\KP Inventory\KP_AppsProjects\Dummy Environment\KP_KomputerInventory\KP_Inventory_Library\obj\Debug\KP_Inventory_Library.pdb
